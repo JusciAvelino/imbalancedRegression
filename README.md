@@ -1,6 +1,6 @@
 # Introduction
 
-Neste arquivo é descrita a metodologia utilizada para realização dos experimentos realizados em: **A Survey of Resampling Strategies for Imbalanced Regression**. O objetivo é permitir que outros pesquisadores sejam capazes de replicar os resultados apresentados.
+Neste arquivo é descrita a metodologia utilizada para realização dos experimentos realizados em: **Resampling strategies for imbalanced regression: a survey**. O objetivo é permitir que outros pesquisadores sejam capazes de replicar os resultados apresentados.
 
 # Contents
 Este arquivo contém:
