@@ -52,7 +52,6 @@ Os experimentos foram realizados em Python e utilizados pacotes em R através da
     - SMOGN
   - [resreg 0.2](https://pypi.org/project/resreg/)
     - WERCS
-    - REBAGG
   - [UBL](https://github.com/paobranco/UBL)
     - SMOTER
     - Random over-sampling 
@@ -77,8 +76,6 @@ Para obter os resultados apresentados deve-se considerar as estratégias de pré
 |  GN  |  u/o = {balance, extreme}, δ = {0.05, 0.1, 0.5} |
 |  SG |  u/o = {balance, extreme} |
 |  WERCS  |  u = {0.5, 0.8}, o = {0.5, 0.8} |
-|  REBAGG  |  m = {10, 40}, resamp = {balance, balance.SMT, variation, variation.SMT}|
-
 
 Todos os resultados foram calculados aplicando 2 repeticões com 10-_fold cross-validation_ e foi utilizado o _GridSearchCV_ para buscar os melhores parâmetros dos algoritmos de aprendizado. Foram utilizados os seguintes parâmentros e modelos de aprendizado:
 
