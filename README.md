@@ -68,3 +68,17 @@ The experiments were performed in Python and used packages in R through the libr
 The image describes the steps taken. The nominal attributes were codified transforming the vetor of categories into whole values between 0 and the number of categories−1, as for the ordinal attributes, a pre-defined order was established (ex. small: 1, medium: 2, large: 3). Then the training data set (_Train set_) and test set (_Test set_) were separated, the training data passed through the resampling process (_Resampling_), from the balanced data (_Balanced train set_) the learning model was generated (_Model generation_) that is evaluated (_Model evaluating_) and obtained its performance (_Performance estimation_).
 
 ![alt text](https://github.com/JusciAvelino/imbalancedRegression/blob/main/diagram.png)
+
+# References
+
+[Paula Branco, Rita P Ribeiro, and Luis Torgo. 2016. UBL: an R package for utility-based learning. arXiv preprint arXiv:1604.08079 (2016).
+Paula Branco, Luis Torgo, and Rita P Ribeiro. 2019. Pre-processing approaches for imbalanced distributions in regression. Neurocomputing 343
+(2019), 76–99.] (https://arxiv.org/abs/1604.08079) 
+
+[Paula Oliveira Branco, Luís Torgo, and Rita Paula Ribeiro. 2017. SMOGN: a pre-processing approach for imbalanced regression. In First International
+Workshop on Learning with Imbalanced Domains: Theory and Applications, Vol. 74. 36–50.](http://proceedings.mlr.press/v74/branco17a)
+
+[Luís Torgo, Rita P Ribeiro, Bernhard Pfahringer, and Paula Branco. 2013. Smote for regression. In Portuguese conference on artificial intelligence.
+Springer, 378–389.](https://link.springer.com/chapter/10.1007/978-3-642-40669-0_33)
+
+[Rita P Ribeiro and Nuno Moniz. 2020. Imbalanced regression and extreme value prediction. Machine Learning 109, 9 (2020), 1803–1835.](https://link.springer.com/article/10.1007/s10994-020-05900-9)
