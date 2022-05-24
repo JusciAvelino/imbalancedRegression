@@ -4,7 +4,7 @@ This file is discribes the methodology used to perform the experiments presented
 
 # Contents
 This file contains:
-- **code.ipynb** with code implemented.
+- **code.ipynb** with the code implemented.
 - **appendices** directory with all the results:
   - **Appendix A**: Results by dataset for better configuration of learning models and pre-processing strategies.
   - **Appendix B**: Average ranking for each metric.
