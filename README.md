@@ -32,7 +32,7 @@ This file contains:
 |Accel             |1732  | 15      | 3      | 12   | 89    | 5,1   |
 |airfold           |1503  | 5       | 0      | 5    | 62    | 4,1   |
 
-where, (N: number of cases; p.total: number of attributes; p.nom: number of nominal attributes; p.num: number of numeric attributes; nRare: number of rare cases; %Rare: 100 × NRaro/N )).
+(N: number of cases; p.total: number of attributes; p.nom: number of nominal attributes; p.num: number of numeric attributes; nRare: number of rare cases; %Rare: 100 × NRaro/N )).
 
 
 # Tools
