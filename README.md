@@ -64,6 +64,6 @@ The experiments were performed in Python and used packages in R through the libr
   - [SERA](https://github.com/nunompmoniz/IRon)
 
 
-The image describes the steps taken. Inicialmente. The nominal attributes were codified transforming the vetor of categories into whole values between 0 and the number of categories−1, as for the ordinal attributes, a pre-defined order was established (ex. small: 1, medium: 2, large: 3).Then the training data set (_Train set_) and test set (_Test set_) were separated, the training data passed through the resampling process (_Resampling_), from the balanced data (_Balanced train set_) the learning model was generated (_Model generation_) that is evaluated (_Model evaluating_) and obtained its performance (_Performance estimation_).
+The image describes the steps taken. The nominal attributes were codified transforming the vetor of categories into whole values between 0 and the number of categories−1, as for the ordinal attributes, a pre-defined order was established (ex. small: 1, medium: 2, large: 3).Then the training data set (_Train set_) and test set (_Test set_) were separated, the training data passed through the resampling process (_Resampling_), from the balanced data (_Balanced train set_) the learning model was generated (_Model generation_) that is evaluated (_Model evaluating_) and obtained its performance (_Performance estimation_).
 
 ![alt text](https://github.com/JusciAvelino/imbalancedRegression/blob/main/diagram.png)
