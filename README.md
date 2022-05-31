@@ -12,7 +12,7 @@ This file contains:
 - **data** with the 17 datasets. The main characteristics of the data are:
 
 
-|Datasets | N    | p.total | p.nom | p.num | nRaro | % Raro|
+|Datasets | N    | p.total | p.nom | p.num | nRare | % Rare|
 | -----------------|------|---------|--------|------|-------|-------|
 |Abalone           |4177  | 8       | 1      | 7    | 679   | 16,3  |
 |a3                |198   | 11      | 3      | 8    | 32    | 16,2  |
