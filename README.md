@@ -91,4 +91,4 @@ Springer, 378–389. (https://link.springer.com/chapter/10.1007/978-3-642-40669-
 
 Rita P Ribeiro and Nuno Moniz. 2020. Imbalanced regression and extreme value prediction. Machine Learning 109, 9 (2020), 1803–1835. (https://link.springer.com/article/10.1007/s10994-020-05900-9)
 
-Wu, Wenglei, Nicholas Kunz, and Paula Branco. "ImbalancedLearningRegression-A Python Package to Tackle the Imbalanced Regression Problem." Joint European Conference on Machine Learning and Knowledge Discovery in Databases. Cham: Springer Nature Switzerland, 2022.
+Wu, Wenglei, Nicholas Kunz, and Paula Branco. "ImbalancedLearningRegression-A Python Package to Tackle the Imbalanced Regression Problem." Joint European Conference on Machine Learning and Knowledge Discovery in Databases. Cham: Springer Nature Switzerland, 2022. (https://link.springer.com/chapter/10.1007/978-3-031-26422-1_48)
