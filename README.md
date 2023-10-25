@@ -67,7 +67,7 @@ The experiments were performed in Python and used packages in R through the libr
     - SMOGN
   - [resreg 0.2](https://pypi.org/project/resreg/)
     - WERCS
-  - [ImbalancedLearningRegression]([https://github.com/paobranco/UBL](https://pypi.org/project/ImbalancedLearningRegression/))
+  - [ImbalancedLearningRegression](https://pypi.org/project/ImbalancedLearningRegression/)
     - SMOTER
     - Random over-sampling 
     - Random under-sampling
